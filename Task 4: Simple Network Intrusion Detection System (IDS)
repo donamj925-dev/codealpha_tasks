@@ -1,0 +1,14 @@
+# simple_ids.py
+
+suspicious_ips = ["192.168.1.100", "10.0.0.5"]
+
+network_logs = [
+    "192.168.1.10 connected",
+    "192.168.1.100 connected",
+    "10.0.0.5 connected"
+]
+
+for log in network_logs:
+    for ip in suspicious_ips:
+        if ip in log:
+            print("ALERT! Suspicious activity detected from:", ip)
