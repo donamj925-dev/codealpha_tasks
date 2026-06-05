@@ -19,11 +19,11 @@ Task 3: Phishing Awareness Tool
 
 A cybersecurity awareness tool designed to educate users about phishing attacks, suspicious emails, fake websites, and social engineering techniques. It provides tips for identifying and avoiding phishing attempts.
 
-Task 4: Secure Coding Review
+Task 3: Secure Coding Review
 
 A Python script that performs a basic security review of source code to identify common vulnerabilities such as hardcoded passwords and potential SQL injection issues. It also provides security recommendations.
 
-Task 5: Network Intrusion Detection System
+Task 4: Network Intrusion Detection System
 
 A simple intrusion detection system (IDS) that monitors network logs and identifies suspicious activities based on predefined rules. It generates alerts when potentially malicious traffic is detected.
 
